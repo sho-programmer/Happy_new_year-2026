@@ -40,6 +40,3 @@ PC・スマホ両対応です。
 このリポジトリをクローン、または ZIP ダウンロードして  
 `index.html` をブラウザで開くだけです。
 
-```bash
-git clone https://github.com/yourname/happy-new-year-2026-fireworks.git
-cd happy-new-year-2026-fireworks
