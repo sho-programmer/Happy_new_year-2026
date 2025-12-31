@@ -1,1 +1,45 @@
-# Happy_new_year-2026
+#  Happy New Year 2026 Fireworks
+
+HTML5 Canvas と JavaScript で作った  
+**「一文字ずつ花火で表示される Happy New Year 2026」アニメーション** です。
+
+クリック不要・自動再生で、  
+花火が **H → a → p → … → 2 → 0 → 2 → 6** の順に表示され、  
+最後の「6」のあとに少し間を空けて、また最初から繰り返します。
+
+PC・スマホ両対応です。
+
+---
+
+##  デモ内容
+
+-  花火が連続で自動発射
+-  **1発の花火につき1文字**
+-  文字花火＋通常の放射状花火を同時表示
+-  「2026」表示後は、次の「H」まで少し間を演出
+-  スマホ / タブレット / PC 対応
+-  Retina（高解像度）対応
+
+---
+
+## 🛠 使用技術
+
+- HTML5
+- CSS
+- JavaScript
+- Canvas API
+
+※ フレームワーク・ライブラリ不使用  
+※ 静的サイト（サーバー不要）
+
+---
+
+##  使い方
+
+### 1. ローカルで実行
+このリポジトリをクローン、または ZIP ダウンロードして  
+`index.html` をブラウザで開くだけです。
+
+```bash
+git clone https://github.com/yourname/happy-new-year-2026-fireworks.git
+cd happy-new-year-2026-fireworks
